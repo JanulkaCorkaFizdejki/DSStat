@@ -8,7 +8,7 @@ avg_trim <- function (list_, k) {
   reme_l <- round((length(s_list) * k) / 2)
   if (reme_l >= 1) {
       if (reme_l == 1) {
-        opt_l <- s_list[!s_list %in% 1:2]
+        opt_l <- s_list[s_list!=2]
       }
   }
   return (opt_l)
