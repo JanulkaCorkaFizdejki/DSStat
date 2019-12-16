@@ -8,7 +8,7 @@ pow <- function (x, y) {
   }
 }
 
-var_ <- function (list_) {
+st_dev <- function (list_) {
   if (length(list_) > 0) {
     sum <- 0
     avg_ <-  mean(list_)
@@ -22,4 +22,5 @@ var_ <- function (list_) {
   
 }
 
-var_(list_a)
+st_dev(list_a)
+
