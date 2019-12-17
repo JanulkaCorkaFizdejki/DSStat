@@ -1,0 +1,21 @@
+WYKRES SŁUPKOWY
+------------------------
+Stosowany jest zazwyczaj wówczas, kiedy przedmiotem prezentacji jest częstość odpowiedzi, mających charakter wielokrotny, bądź też wtedy, gdy istnieje wiele możliwych odpowiedzi - każdy z prostokątów przedstawia liczebność danego wariantu cechy.
+Jest rodzajem wykresu powierzchniowego, w postaci figury płaskiej - zazwyczaj prostokątów, lub inaczej słupków.
+
+WYKRES KOŁOWY
+------------------------
+Jak sama nazwa wskazuje, ma postać graficzną koła. Dane, które reprezentuje są wycinkami utworzonymi za pomocą dwóch promieni. Koło reprezentuje daną całość, a wycinek część tej całości. Takie wykresy często znajdują zastosowanie w graficznej prezentacji badanej grupy osób.
+
+HISTOGRAM
+------------------------
+Jest to jeden ze sposobów przedstawiania rozkładu empirycznego cechy. Graficznie przyjmuje postać prostokątów umieszczonych na osi współrzędnych, które z jednej strony są wyznaczone przez przedziały klasowe wartości cechy (oś x), natomiast wysokość jest określona przez liczebność (oś y).
+
+WYKRES RAMKOWY/PUDEŁKOWY
+------------------------
+Stanowi formę graficznej prezentacji cechy statystycznej. Znajduje zastosowanie np. W pakietach komputerowych, które wspomagają proces analizy i interpretacji danych statystycznych. Dzięki nim można na jednym rysunku ująć informacje dotyczące położenia, rozproszenia i kształty rozkładu empirycznego badanie cechy. Wykres pudełkowy prezentuje wartość poszczególnych kwartyli w formie pudełka podzielonego na 2 części medianą, z którego wyrastają "wąsy" - zwykle o długości do 1,5 * rozstęp ćwiartkowy. 
+
+WYKRES SKRZYPCOWY
+------------------------
+Jest rodzajem wykresu pudełkowego, jednak za jego pomocą można przedstawić większą liczbę danych (np. rozkład wielomodalny). Umożliwia jednoczesne zobrazowanie gęstości prawdopodobieństwa i rozkładu dla kilku grup jednocześnie. Jest on połączeniem wykresu pudełkowego oraz wykresu gęstości, który jest umieszczony z każdej strony, po to, by zobrazować kształt rozkładu danych.
+
