@@ -1,0 +1,11 @@
+ELEMENTY WYKRESU RAMKOWEGO / PUDEŁKOWEGO
+------------------------------------------
+1 - górna obserwacja ekstremalna (wynik badanego >= Q3 + IQR * 3
+2 - górny outlier (obserwacja odstająca) (wynik badanego >= Q3 + IQR * 1,5)
+3 - najwyższy wynik, który nie jest outlierem - tzw. Wąs
+4 - górny, czyli trzeci kwartyl - Q3
+5 - mediana, czyli drugi kwartyl - Q2
+6 - dolny, czyli pierwszy kwartyl - QL
+7 - najniższy wynik, który nie jest outlierem 
+8 - dolny outlier (obserwacja odstająca) (wynik badanego <= Q1 - IQR * 1,5)
+9 - dolna obserwacja ekstremalna (wynik badanego <= Q1 - IQR * 3)
